@@ -3890,3 +3890,12 @@ https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedu
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts
 https://github.com/FalconForceTeam/SOAPHound
 https://web.archive.org/web/20220614030603/http://www.powertheshell.com/ntfsstreams/
+https://malware.guide/browser-hijacker/remove-onelaunch-virus/
+https://www.fireeye.com/blog/threat-research/2020/01/saigon-mysterious-ursnif-fork.html
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts#things-to-monitor
+https://www.lifars.com/wp-content/uploads/2022/01/GriefRansomware_Whitepaper-2.pdf
+https://threatbook.io/blog/Analysis-of-APT-C-60-Attack-on-South-Korea
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-user-accounts#unusual-sign-ins
+https://tria.ge/240521-ynezpagf56/behavioral1
+https://tria.ge/231023-lpw85she57/behavioral2
+https://gtfobins.github.io/gtfobins/awk/#shell
